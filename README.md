@@ -27,3 +27,12 @@ Right now for test access -> 1.0 release it's currently set to $5. This may chan
 [![thonk](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DG6KBZ3DFBUTL&source=url)
 
 Please add some message so I know who sent the donation. Or contact me via [Discord](https://discord.gg/GqyNx2t) or DM me directly PokeDev#7362
+
+## SETUP
+1. Aquire the bot through the above method.
+2. If the bot does not contain a file or the bot is missing something either contact me or find it on the main page above.
+3. Run bot to gen missing folders/dex
+4. Settings -> config.json set the password and email minimum. Everything else can stay normal.
+5. Run again if everything worked bot should log you into discord.
+6. Locate the server and channel where you want to start hunting
+7. type start in the console to start pause to pause and stop to close and exit
