@@ -29,6 +29,7 @@ Right now for test access -> 1.0 release it's currently set to $5. This may chan
 Please add some message so I know who sent the donation. Or contact me via [Discord](https://discord.gg/GqyNx2t) or DM me directly PokeDev#7362
 
 ## SETUP
+0. This bot requires chrome. To ensure compatibility make sure you have the latest version. Upon request custom versions can be built for certain browsers. This will take extra time and may add cost.
 1. Aquire the bot through the above method.
 2. If the bot does not contain a file or the bot is missing something either contact me or find it on the main page above.
 3. Run bot to gen missing folders/dex
