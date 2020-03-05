@@ -9,6 +9,8 @@
 > - Same fast catching ability
 > - More to come!
 
+### Example catching
+![image](https://media.giphy.com/media/kcwdClOLH4MLv845UO/giphy.gif)
 
 ### How do I get this bot?
 
@@ -23,8 +25,10 @@ Right now for test access -> 1.0 release it's currently set to $5. This may chan
 #### Test features at the moment include:
 - Catching (Currently only printed to the console)
 - Spamming (Modifiable times)
+#### Beta features
+- autoleveling/switching
 
-[![thonk](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DG6KBZ3DFBUTL&source=url)
+[![thonk](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LZWYK3YEQHHW8&source=url)
 
 Please add some message so I know who sent the donation. Or contact me via [Discord](https://discord.gg/GqyNx2t) or DM me directly PokeDev#7362
 
