@@ -29,7 +29,7 @@ Right now for test access -> 1.0 release it's currently set to $5. This may chan
 - autoleveling/switching
 
 
-
+### ON HOLD DUE TO WORK
 Please add some message so I know who sent the donation. Or contact me via [Discord](https://discord.gg/GqyNx2t) or DM me directly PokeDev#7362
 
 ## SETUP
